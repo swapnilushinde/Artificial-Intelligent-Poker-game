@@ -1,0 +1,351 @@
+
+CL-USER 1 > pokermaster 3 20 3
+Game 1 
+-------------------------------------- 
+Round 1:
+Communal Cards: NIL
+Player 1 Continue 
+ - Hole Cards: ((8 H) (2 D)) 
+ - Chip Count: 20 
+Player 2 fold 
+ - Hole Cards: ((K S) (J H)) 
+ - Chip Count: 20 
+ Player 3 Continue 
+ - Hole Cards: ((K H) (9 D)) 
+ - Chip Count: 20 
+-------------------------------------- 
+Round 2:
+Communal Cards: ((10 S) (10 H) (8 D))
+Pot : 2 
+Player 1 Continue 
+ - Hole Cards: ((8 H) (2 D)) 
+ - Chip Count: 19 
+Player 3 Continue 
+ - Hole Cards: ((K H) (9 D)) 
+ - Chip Count: 19 
+-------------------------------------- 
+Round 3:
+Communal Cards: ((10 S) (10 H) (8 D) (K D))
+Pot : 4 
+Player 1 Continue 
+ - Hole Cards: ((8 H) (2 D)) 
+ - Chip Count: 18 
+Player 3 Continue 
+ - Hole Cards: ((K H) (9 D)) 
+ - Chip Count: 18 
+-------------------------------------- 
+Round 4:
+Communal Cards: ((10 S) (10 H) (8 D) (K D) (3 C))
+Pot : 6 
+Player 1 Continue 
+ - Hole Cards: ((8 H) (2 D)) 
+ - Chip Count: 17 
+Player 3 Continue 
+ - Hole Cards: ((K H) (9 D)) 
+ - Chip Count: 17 
+
+Game 1 FUNC-BETTING:
+Player 3 has won 
+ - Chip Count:24
+Game 1 ended
+
+************************************************************************** 
+Game 2 
+-------------------------------------- 
+Round 1:
+Communal Cards: NIL
+Player 1 Continue 
+ - Hole Cards: ((10 C) (4 S)) 
+ - Chip Count: 16 
+Player 2 fold 
+ - Hole Cards: ((A H) (J D)) 
+ - Chip Count: 20 
+ Player 3 fold 
+ - Hole Cards: ((10 H) (K D)) 
+ - Chip Count: 24 
+ -------------------------------------- 
+Round 2:
+Communal Cards: ((8 D) (A D) (9 H))
+Pot : 0 
+-------------------------------------- 
+Round 3:
+Communal Cards: ((8 D) (A D) (9 H) (J S))
+Pot : 0 
+-------------------------------------- 
+Round 4:
+Communal Cards: ((8 D) (A D) (9 H) (J S) (3 H))
+Pot : 0 
+
+Game 2 Result:
+Player 1 has won 
+ - Chip Count: 16
+Game 2 ended
+
+************************************************************************** 
+Game 3 
+-------------------------------------- 
+Round 1:
+Communal Cards: NIL
+Player 1 Continue 
+ - Hole Cards: ((10 C) (5 C)) 
+ - Chip Count: 16 
+Player 2 fold 
+ - Hole Cards: ((K D) (3 D)) 
+ - Chip Count: 20 
+ Player 3 Continue 
+ - Hole Cards: ((9 C) (4 D)) 
+ - Chip Count: 24 
+-------------------------------------- 
+Round 2:
+Communal Cards: ((9 D) (5 H) (8 H))
+Pot : 2 
+Player 1 Continue 
+ - Hole Cards: ((10 C) (5 C)) 
+ - Chip Count: 15 
+Player 3 Continue 
+ - Hole Cards: ((9 C) (4 D)) 
+ - Chip Count: 23 
+-------------------------------------- 
+Round 3:
+Communal Cards: ((9 D) (5 H) (8 H) (8 D))
+Pot : 4 
+Player 1 Continue 
+ - Hole Cards: ((10 C) (5 C)) 
+ - Chip Count: 14 
+Player 3 Continue 
+ - Hole Cards: ((9 C) (4 D)) 
+ - Chip Count: 22 
+-------------------------------------- 
+Round 4:
+Communal Cards: ((9 D) (5 H) (8 H) (8 D) (Q D))
+Pot : 6 
+Player 1 Continue 
+ - Hole Cards: ((10 C) (5 C)) 
+ - Chip Count: 13 
+Player 3 Continue 
+ - Hole Cards: ((9 C) (4 D)) 
+ - Chip Count: 21 
+
+Game 3 FUNC-BETTING:
+Player 3 has won 
+ - Chip Count:28
+Game 3 ended
+
+************************************************************************** 
+NIL
+
+CL-USER 2 > pokermaster 4 25 5
+Game 1 
+-------------------------------------- 
+Round 1:
+Communal Cards: NIL
+Player 1 Continue 
+ - Hole Cards: ((3 C) (2 C)) 
+ - Chip Count: 25 
+Player 2 Continue 
+ - Hole Cards: ((7 D) (5 C)) 
+ - Chip Count: 25 
+Player 3 fold 
+ - Hole Cards: ((2 D) (2 S)) 
+ - Chip Count: 25 
+ Player 4 Continue 
+ - Hole Cards: ((9 S) (7 H)) 
+ - Chip Count: 25 
+-------------------------------------- 
+Round 2:
+Communal Cards: ((8 H) (K S) (4 H))
+Pot : 3 
+Player 1 fold 
+ - Hole Cards: ((3 C) (2 C)) 
+ - Chip Count: 24 
+ Player 2 Continue 
+ - Hole Cards: ((7 D) (5 C)) 
+ - Chip Count: 24 
+Player 4 Continue 
+ - Hole Cards: ((9 S) (7 H)) 
+ - Chip Count: 24 
+-------------------------------------- 
+Round 3:
+Communal Cards: ((8 H) (K S) (4 H) (6 D))
+Pot : 5 
+Player 2 Continue 
+ - Hole Cards: ((7 D) (5 C)) 
+ - Chip Count: 23 
+Player 4 Continue 
+ - Hole Cards: ((9 S) (7 H)) 
+ - Chip Count: 23 
+-------------------------------------- 
+Round 4:
+Communal Cards: ((8 H) (K S) (4 H) (6 D) (A H))
+Pot : 7 
+Player 2 Continue 
+ - Hole Cards: ((7 D) (5 C)) 
+ - Chip Count: 22 
+Player 4 fold 
+ - Hole Cards: ((9 S) (7 H)) 
+ - Chip Count: 22 
+ 
+Game 1 Result:
+Player 2 has won 
+ - Chip Count: 29
+Game 1 ended
+
+************************************************************************** 
+Game 2 
+-------------------------------------- 
+Round 1:
+Communal Cards: NIL
+Player 1 fold 
+ - Hole Cards: ((2 D) (2 H)) 
+ - Chip Count: 24 
+ Player 2 Continue 
+ - Hole Cards: ((7 S) (Q S)) 
+ - Chip Count: 29 
+Player 3 fold 
+ - Hole Cards: ((Q D) (K S)) 
+ - Chip Count: 25 
+ Player 4 fold 
+ - Hole Cards: ((2 S) (A D)) 
+ - Chip Count: 22 
+ -------------------------------------- 
+Round 2:
+Communal Cards: ((J C) (3 H) (5 H))
+Pot : 0 
+-------------------------------------- 
+Round 3:
+Communal Cards: ((J C) (3 H) (5 H) (9 C))
+Pot : 0 
+-------------------------------------- 
+Round 4:
+Communal Cards: ((J C) (3 H) (5 H) (9 C) (3 C))
+Pot : 0 
+
+Game 2 Result:
+Player 2 has won 
+ - Chip Count: 29
+Game 2 ended
+
+************************************************************************** 
+Game 3 
+-------------------------------------- 
+Round 1:
+Communal Cards: NIL
+Player 1 Continue 
+ - Hole Cards: ((10 H) (4 C)) 
+ - Chip Count: 24 
+Player 2 Continue 
+ - Hole Cards: ((Q H) (4 H)) 
+ - Chip Count: 29 
+Player 3 fold 
+ - Hole Cards: ((8 D) (Q C)) 
+ - Chip Count: 25 
+ Player 4 Continue 
+ - Hole Cards: ((3 C) (J C)) 
+ - Chip Count: 22 
+-------------------------------------- 
+Round 2:
+Communal Cards: ((A S) (8 S) (9 C))
+Pot : 3 
+Player 1 Continue 
+ - Hole Cards: ((10 H) (4 C)) 
+ - Chip Count: 23 
+Player 2 fold 
+ - Hole Cards: ((Q H) (4 H)) 
+ - Chip Count: 28 
+ Player 4 fold 
+ - Hole Cards: ((3 C) (J C)) 
+ - Chip Count: 21 
+ -------------------------------------- 
+Round 3:
+Communal Cards: ((A S) (8 S) (9 C) (A D))
+Pot : 3 
+-------------------------------------- 
+Round 4:
+Communal Cards: ((A S) (8 S) (9 C) (A D) (6 S))
+Pot : 3 
+
+Game 3 Result:
+Player 1 has won 
+ - Chip Count: 26
+Game 3 ended
+
+************************************************************************** 
+Game 4 
+-------------------------------------- 
+Round 1:
+Communal Cards: NIL
+Player 1 fold 
+ - Hole Cards: ((10 D) (10 S)) 
+ - Chip Count: 26 
+ Player 2 fold 
+ - Hole Cards: ((4 H) (K D)) 
+ - Chip Count: 28 
+ Player 3 Continue 
+ - Hole Cards: ((J C) (8 H)) 
+ - Chip Count: 25 
+Player 4 Continue 
+ - Hole Cards: ((6 C) (5 D)) 
+ - Chip Count: 21 
+-------------------------------------- 
+Round 2:
+Communal Cards: ((10 H) (Q C) (7 D))
+Pot : 2 
+Player 3 Continue 
+ - Hole Cards: ((J C) (8 H)) 
+ - Chip Count: 24 
+Player 4 fold 
+ - Hole Cards: ((6 C) (5 D)) 
+ - Chip Count: 20 
+ -------------------------------------- 
+Round 3:
+Communal Cards: ((10 H) (Q C) (7 D) (9 C))
+Pot : 2 
+-------------------------------------- 
+Round 4:
+Communal Cards: ((10 H) (Q C) (7 D) (9 C) (Q H))
+Pot : 2 
+
+Game 4 Result:
+Player 3 has won 
+ - Chip Count: 26
+Game 4 ended
+
+************************************************************************** 
+Game 5 
+-------------------------------------- 
+Round 1:
+Communal Cards: NIL
+Player 1 fold 
+ - Hole Cards: ((8 D) (8 C)) 
+ - Chip Count: 26 
+ Player 2 Continue 
+ - Hole Cards: ((5 C) (2 S)) 
+ - Chip Count: 28 
+Player 3 fold 
+ - Hole Cards: ((3 D) (A H)) 
+ - Chip Count: 26 
+ Player 4 fold 
+ - Hole Cards: ((A D) (6 H)) 
+ - Chip Count: 20 
+ -------------------------------------- 
+Round 2:
+Communal Cards: ((10 H) (6 C) (5 S))
+Pot : 0 
+-------------------------------------- 
+Round 3:
+Communal Cards: ((10 H) (6 C) (5 S) (Q D))
+Pot : 0 
+-------------------------------------- 
+Round 4:
+Communal Cards: ((10 H) (6 C) (5 S) (Q D) (A S))
+Pot : 0 
+
+Game 5 Result:
+Player 2 has won 
+ - Chip Count: 28
+Game 5 ended
+
+************************************************************************** 
+NIL
+
+CL-USER 3 > 
